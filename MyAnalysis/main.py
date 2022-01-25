@@ -1,7 +1,7 @@
 from univariate_simulations import *
 import matplotlib.pyplot as plt
 import scipy.stats
-
+#
 simulations = 1000
 steps = 365
 
